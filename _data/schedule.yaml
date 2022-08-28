@@ -1,0 +1,292 @@
+-
+  start_new_week: true   # Week 1
+  topic: "Syllabus"
+  day_of_week: 0
+  reading:
+    -
+     title: "Syllabus"
+     url: ..
+     length:
+       value: 6
+       unit: "pages"
+-
+  topic: "Tools"
+  day_of_week: 2
+-
+  topic: "Intro to C++"
+  slides: ../assets/pdf/cs201-0101-intro-to-cpp-1.pdf
+  day_of_week: 4
+  reading:
+    -
+     title: "Chapter 2: Hello, World!"
+     pages: "43-51"
+     length:
+       value: 9
+       unit: "pages"
+-
+##################################
+  start_new_week: true   # Week 2
+##################################
+  day_of_week: 0
+  slides: ../assets/pdf/cs201-0102-intro-to-cpp-2.pdf
+  reading:
+    -
+     title: "Chapter 2: Hello, World!"
+     pages: "52-57"
+     length:
+       value: 6
+       unit: "pages"
+-
+  day_of_week: 2
+  slides: ../assets/pdf/cs201-0103-intro-to-cpp-3.pdf
+  reading:
+    -
+     title: "HW0 due"
+-
+  day_of_week: 4
+  topic: "Flow of Control"
+  slides: ../assets/pdf/cs201-0201-flow-of-control-1.pdf
+  reading:
+    -
+     title: "Chapter 4.4: Statements"
+     pages: "100-113"
+     length:
+       value: 13
+       unit: "pages"
+-
+##################################
+  start_new_week: true   # Week 3
+##################################
+  topic: ""
+  day_of_week: 0
+  slides: ../assets/pdf/cs201-0202-flow-of-control-2.pdf
+-
+  topic: ""
+  day_of_week: 2
+  slides: ../assets/pdf/cs201-0203-flow-of-control-3.pdf
+-
+  topic: "Functions"
+  day_of_week: 4
+  slides: ../assets/pdf/cs201-0301-functions-1.pdf
+  reading:
+    -
+     title: "Chapter 4.5: Functions"
+     pages: "113-117"
+     length:
+       value: 4
+       unit: "pages"
+    -
+     title: "HW1 due"
+-
+##################################
+  start_new_week: true   # Week 4
+##################################
+  topic: ""
+  day_of_week: 0
+  slides: ../assets/pdf/cs201-0302-functions-2.pdf
+  reading:
+    -
+     title: "Chapter 8: Functions"
+     pages: "255-301"
+     length:
+       value: 47
+       unit: "pages"
+-
+  topic: ""
+  day_of_week: 2
+  slides: ../assets/pdf/cs201-0303-functions-3.pdf
+-
+  topic: ""
+  day_of_week: 4
+  slides: ../assets/pdf/cs201-0304-functions-4.pdf
+-
+##################################
+  start_new_week: true   # Week 5
+##################################
+  topic: "Types"
+  day_of_week: 0
+  slides: ../assets/pdf/cs201-0401-type_1.pdf
+  reading:
+    -
+     title: "HW2 due"
+-
+  topic: ""
+  day_of_week: 2
+  slides: ../assets/pdf/cs201-0402-type_2.pdf
+-
+  topic: "Vectors"
+  day_of_week: 4
+  slides: ../assets/pdf/cs201-0501-vector_1.pdf
+-
+##################################
+  start_new_week: true   # Week 6
+##################################
+  topic: ""
+  day_of_week: 0
+  slides: ../assets/pdf/cs201-0502-vector_2.pdf
+-
+  topic: "Strings"
+  day_of_week: 2
+  slides: ../assets/pdf/cs201-0601-string_1.pdf
+  reading:
+    -
+     title: "HW3 due"
+-
+  topic: ""
+  day_of_week: 4
+  slides: ../assets/pdf/cs201-0602-string_2.pdf
+-
+##################################
+  start_new_week: true   # Week 7
+##################################
+  topic: "Searching & Sorting"
+  day_of_week: 0
+  slides: ../assets/pdf/cs201-0701-search_1.pdf
+-
+  topic: ""
+  day_of_week: 2
+  slides: ../assets/pdf/cs201-0702-search_2.pdf
+-
+  topic: ""
+  day_of_week: 4
+  slides: ../assets/pdf/cs201-0703-search_3.pdf
+  reading:
+    -
+     title: "HW4 due"
+-
+##################################
+  start_new_week: true   # Week 8
+##################################
+  topic: "Review"
+  day_of_week: 0
+-
+  topic: ""
+  day_of_week: 2
+-
+  topic: "Midterm Exam"
+  day_of_week: 4
+-
+##################################
+  start_new_week: true   # Week 9
+##################################
+  topic: "Numbers"
+  day_of_week: 0
+  slides: ../assets/pdf/cs201-0801-numbers_1.pdf
+-
+  topic: ""
+  day_of_week: 2
+  slides: ../assets/pdf/cs201-0802-numbers_2.pdf
+-
+  topic: "Structured data"
+  day_of_week: 4
+  slides: ../assets/pdf/cs201-0901-structured-data-1.pdf
+-
+##################################
+  start_new_week: true   # Week 10
+##################################
+  topic: ""
+  day_of_week: 0
+  slides: ../assets/pdf/cs201-0902-structured-data-2.pdf
+-
+  topic: ""
+  day_of_week: 2
+  slides: ../assets/pdf/cs201-0903-structured-data-3.pdf
+-
+  topic: "Standard library"
+  day_of_week: 4
+  slides: ../assets/pdf/cs201-1001-stdlib-1.pdf
+-
+##################################
+  start_new_week: true   # Week 11
+##################################
+  topic: ""
+  day_of_week: 0
+  slides: ../assets/pdf/cs201-1002-stdlib-2.pdf
+  reading:
+    -
+     title: "HW5 due"
+-
+  topic: ""
+  day_of_week: 2
+  slides: ../assets/pdf/cs201-1003-stdlib-3.pdf
+-
+  topic: ""
+  day_of_week: 4
+  slides: ../assets/pdf/cs201-1004-stdlib-4.pdf
+-
+##################################
+  start_new_week: true   # Week 12
+##################################
+  topic: "Files"
+  day_of_week: 0
+  slides: ../assets/pdf/cs201-1101-files-1.pdf
+-
+  topic: ""
+  day_of_week: 2
+  slides: ../assets/pdf/cs201-1102-files-2.pdf
+  reading:
+    -
+     title: "HW6 due"
+-
+  topic: "Internals"
+  day_of_week: 4
+  slides: ../assets/pdf/cs201-1201-internals-1.pdf
+-
+##################################
+  start_new_week: true   # Week 13
+##################################
+  topic: ""
+  day_of_week: 0
+  slides: ../assets/pdf/cs201-1202-internals-2.pdf
+-
+  day_of_week: 2
+-
+  day_of_week: 4
+-
+##################################
+  start_new_week: true   # Week 14
+##################################
+  topic: ""
+  day_of_week: 0
+  slides: ../assets/pdf/cs201-1203-internals-3.pdf
+-
+  topic: ""
+  day_of_week: 2
+  slides: ../assets/pdf/cs201-1204-internals-4.pdf
+  reading:
+    -
+     title: "HW7 due"
+-
+  topic: "Classes"
+  day_of_week: 4
+  slides: ../assets/pdf/cs201-1301-classes-1.pdf
+  reading:
+    -
+     title: "Chapter 9: Classes"
+     pages: "303-341"
+     length:
+       value: 39
+       unit: "pages"
+-
+##################################
+  start_new_week: true   # Week 15
+##################################
+  topic: ""
+  day_of_week: 0
+  slides: ../assets/pdf/cs201-1302-classes-2.pdf
+-
+  topic: ""
+  day_of_week: 2
+  slides: ../assets/pdf/cs201-1303-classes-3.pdf
+-
+  topic: "Review"
+  day_of_week: 4
+  reading:
+    -
+     title: "HW8 due"
+-
+##################################
+  start_new_week: true   # Week 16
+##################################
+  topic: "Final Exam"
+  day_of_week: 2
