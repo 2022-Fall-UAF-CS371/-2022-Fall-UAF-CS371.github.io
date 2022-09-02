@@ -21,11 +21,17 @@
        unit: "pages"
 -
   day_of_week: 4
+  reading:
+    -
+     title: "Continued discussion of Chapter 1"
 -
 ##################################
   start_new_week: true   # Week 2
 ##################################
   day_of_week: 0
+  reading:
+    -
+     title: "NO CLASS - LABOR DAY"
 -
   day_of_week: 2
   topic: "Ethics"
