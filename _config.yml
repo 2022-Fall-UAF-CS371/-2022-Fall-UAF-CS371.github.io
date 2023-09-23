@@ -2,6 +2,7 @@ site: "CS 371"
 url: https://www.cs.uaf.edu/courses/cs371/2022-fall/
 title: "CS 371"
 description: "Computer Ethics and Technical Communication"
+semester: "Fall 2022"
 
 logistics:
     location:

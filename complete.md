@@ -2,7 +2,9 @@
 layout: print
 ---
 
-# CS 201 - Fall 2022
+# {{ site.title }} - {{ site.semester }}
+
+## {{site.description}}
 
 {% include_relative course/description.md %}
 
